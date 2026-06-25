@@ -1,2 +1,2 @@
-# TPI-Gimnasio.-Programaci-n-avanzada-
+# TPI-Gimnasio.-Programacion-avanzada-
 Sistema de gestión de gimnasio 
