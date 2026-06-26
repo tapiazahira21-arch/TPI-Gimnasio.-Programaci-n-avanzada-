@@ -81,14 +81,19 @@ La clase Gimnasio implementa el patrón Singleton para garantizar que exista una
 * Pago
 * Gimnasio
 
-## Ejecución
+## Instrucciones de ejecución
 
-1. Abrir una terminal.
-2. Ejecutar el archivo principal:
+### Requisitos
+- Python 3.x instalado.
+
+### Pasos
+
+1. Descargar o clonar el repositorio.
+2. Abrir una terminal en la carpeta del proyecto.
+3. Ejecutar el siguiente comando:
 
 ```bash
 python gimnasio.py
-```
 
 3. Utilizar el menú interactivo para registrar clientes, profesores y pagos.
 
