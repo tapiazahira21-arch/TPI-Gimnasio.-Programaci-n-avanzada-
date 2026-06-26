@@ -94,6 +94,7 @@ La clase Gimnasio implementa el patrón Singleton para garantizar que exista una
 
 ```bash
 python gimnasio.py
+```
 
 3. Utilizar el menú interactivo para registrar clientes, profesores y pagos.
 
